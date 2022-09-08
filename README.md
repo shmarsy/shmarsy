@@ -1,4 +1,4 @@
-<img src='gitb.png' alt="banner"></img>
+
 <h1 align="center">Hi 👋, I'm SAYED AMMAR HASSAN</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
