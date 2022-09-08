@@ -1,4 +1,4 @@
-<img src='github-banner.jpg' width="1200" height="300" alt="banner"></img>
+<img src='gitb.png' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm SAYED AMMAR HASSAN</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
